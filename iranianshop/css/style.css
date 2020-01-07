@@ -1,0 +1,39 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: #151515;
+    color: green;
+}
+
+
+a {
+    color: #e7e7e7;
+}
+
+.divTable {
+    display: table;
+    width: 1024px;
+    font-size: 13pt;
+    font-family: 'tahoma';
+    margin: 0px auto;
+    direction: rtl;
+}
+
+.divTableRow {
+    display: table-row;
+}
+
+.divTableCell {
+    display: table-cell;
+    border: 1px solid #999;
+    padding: 3px 10px;
+}
+
+.set_style_link {
+    text-decoration: none;
+    font-weight: bold;
+}
